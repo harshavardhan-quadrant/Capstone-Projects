@@ -1,0 +1,14 @@
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.exe
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.deps.json
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.runtimeconfig.json
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\bin\Debug\net10.0\StudentGradingSystem.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.AssemblyInfoInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.AssemblyInfo.cs
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\refint\StudentGradingSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\StudentGradingSystem.genruntimeconfig.cache
+C:\Users\Quadrant\Desktop\DRI\code space\StudentGradingSystem\obj\Debug\net10.0\ref\StudentGradingSystem.dll

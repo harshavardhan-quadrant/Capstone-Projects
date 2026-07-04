@@ -1,0 +1,14 @@
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.exe
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.deps.json
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.runtimeconfig.json
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.dll
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\bin\Debug\net10.0\NumberGuessingGame.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.AssemblyInfoInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.AssemblyInfo.cs
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.dll
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\refint\NumberGuessingGame.dll
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\NumberGuessingGame.genruntimeconfig.cache
+C:\Users\Quadrant\Desktop\DRI\code space\NumberGuessingGame\obj\Debug\net10.0\ref\NumberGuessingGame.dll
