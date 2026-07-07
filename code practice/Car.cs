@@ -44,6 +44,7 @@ class ParentClass
   {
     Console.WriteLine("Method 2 Called from ParentClass with value: " + value);
   }
+
 }
 
 class ChildClass : ParentClass
@@ -80,6 +81,34 @@ class ChildClass : ParentClass
     parent.method2(30); // method from parent class
     // parent.method2(30); // we can not access child class method from parent class object.
 
+    NonAbstractChildClass nonAbstractChild = new NonAbstractChildClass();
+    nonAbstractChild.AbstractMethod1();
+    nonAbstractChild.AbstractMethod2(40);
+
+
   }
 }
 
+abstract class AbstractParentClass
+{
+  public abstract void AbstractMethod1();
+  public abstract void AbstractMethod2(int value);
+  public void NormalMethod()
+  {
+    Console.WriteLine("Normal Method Called from AbstractParentClass");
+  }
+}
+
+class NonAbstractChildClass : AbstractParentClass
+{
+  public override void AbstractMethod1()
+  {
+    Console.WriteLine("Abstract Method 1 Implemented in AbstractChildClass");
+  }
+
+  public override void AbstractMethod2(int value)
+  {
+    Console.WriteLine("Abstract Method 2 Implemented in AbstractChildClass with value: " + value);
+  }
+
+}
