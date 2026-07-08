@@ -33,6 +33,7 @@ class Car : Engine
   }
 }
 */
+/*
 class ParentClass
 {
   public void method1()
@@ -111,4 +112,75 @@ class NonAbstractChildClass : AbstractParentClass
     Console.WriteLine("Abstract Method 2 Implemented in AbstractChildClass with value: " + value);
   }
 
+}
+*/
+
+using System.Collections;
+
+class CollectionClass
+{
+
+  public void method1()
+  {
+    /*
+    // Array
+    int[] numbers = { 1, 2, 3, 4, 5 };
+    int[] numberlist = new int[] { 10, 20, 30, 40, 50 };
+    int[] numberlist2 = new int[6];
+    numberlist2[0] = 100;
+    numberlist2[1] = 200;
+
+    String[] names = { "John", "Jane", "Jack", "Jill" };
+
+    foreach (int number in numbers)
+    {
+      Console.WriteLine("Array Number: " + number);
+    }
+
+    for (int i = 0; i < numberlist.Length; i++)
+    {
+      Console.WriteLine("Array Number List: " + numberlist[i]);
+    }
+
+    foreach (String name in names)
+    {
+      Console.WriteLine("Array Name: " + name);
+    }
+    for (int i = 0; i < names.Length; i++)
+    {
+      Console.WriteLine("Array Name List: " + names[i]);
+    }
+    {
+      
+    }
+    */
+
+    // Array List
+    ArrayList arrayList = new ArrayList();
+    arrayList.Add(1);
+    arrayList.Add("Hello");
+    arrayList.Add(3.14);
+    foreach (var item in arrayList)
+    {
+      Console.WriteLine("ArrayList Item: " + item);
+    }
+
+    // Hash Table
+    Hashtable hashtable = new Hashtable();
+    hashtable.Add("K001", "Harsha");  
+    hashtable.Add("K002", "Rahul");
+    hashtable.Add("K003", 4567654);
+    foreach (DictionaryEntry entry in hashtable)
+    {
+      Console.WriteLine("Hashtable Key: " + entry.Key + ", Value: " + entry.Value);
+    }
+
+
+  }
+
+  public static void Main(String[] args)
+  {
+    CollectionClass collection = new CollectionClass();
+    collection.method1();
+  }
 }
