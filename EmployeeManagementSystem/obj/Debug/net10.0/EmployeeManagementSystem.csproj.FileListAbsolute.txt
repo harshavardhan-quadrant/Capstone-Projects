@@ -1,0 +1,15 @@
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.exe
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.deps.json
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.runtimeconfig.json
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\bin\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.AssemblyInfo.cs
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.sourcelink.json
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\refint\EmployeeManagementSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\EmployeeManagementSystem.genruntimeconfig.cache
+C:\Users\Quadrant\Desktop\DRI\code space\EmployeeManagementSystem\obj\Debug\net10.0\ref\EmployeeManagementSystem.dll
