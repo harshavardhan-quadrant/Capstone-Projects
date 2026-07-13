@@ -176,7 +176,7 @@ class CollectionClass
       Console.WriteLine("Hashtable Key: " + entry.Key + ", Value: " + entry.Value);
     } 
     */
-
+    /*
     // Generic Collections
     List<int> intList = new List<int>();
     intList.Add(10);
@@ -320,6 +320,52 @@ class CollectionClass
     printHashSet(hashset);
     hashset.Clear(); // removes all items from the hashset
     Console.WriteLine("HashSet Count: " + hashset.Count);
+    */
+
+    List<int> ints = new List<int>() { 10, 34, 543, 56, 34, 46, 352, 34, 45, 45, 72, 32, 46, 74, 25, 345, 36, 32, 623, 6, 36 };
+
+    List<string> names = new List<string>()
+    {
+    "Harsha", "Rahul", "Anil", "Kiran", "Akhil", "Ravi", "Suresh", "Mahesh", "Ramesh", "Ganesh",
+    "Vijay", "Ajay", "Arjun", "Praveen", "Naveen", "Karthik", "Vamsi", "Teja", "Sai", "Varun",
+    "Harsha", "Rahul", "Anil", "Vijay", "Ajay", "Bhaskar", "Charan", "Dinesh", "Eswar", "Farooq",
+    "Gopal", "Hari", "Indra", "Jagadeesh", "Kishore", "Lokesh", "Manoj", "Naresh", "Omkar", "Pavan",
+    "Prasad", "Rohit", "Santosh", "Tarun", "Uday", "Venkat", "Yash", "Zubair", "Abhishek", "Srinivas"
+    };
+
+    var query1 = from i in ints where i > 50 select i;
+    var query2 = from i in ints where i > 50 orderby i select i;
+    var query3 = from i in ints where i > 50 orderby i descending select i;
+    var query4 = (from i in ints select i).Distinct();
+    var query5 = (from i in ints select i).Count();
+    var query6 = (from i in ints select i).Sum();
+    var query7 = (from i in ints select i).Average();
+    var query8 = (from i in ints select i).Max();
+    var query9 = (from i in ints select i).Min();
+    var query10 = (from i in ints select i).First();
+    var query11 = (from i in ints select i).Last();
+    var query12 = (from i in ints select i).ElementAt(5);
+    var query13 = (from i in ints select i).ElementAtOrDefault(100); // returns default value if index is out of range
+    var query14 = (from i in ints select i).Contains(34); // returns true if the collection contains the specified value
+    var query15 = (from i in ints select i).All(i => i > 0); // returns true if all elements in the collection satisfy the specified condition
+
+    String query16 = (from n in names where n.StartsWith("H") select n).FirstOrDefault(); // returns the first element that satisfies the specified condition or default value if no such element is found
+    var query17 = (from n in names where n.StartsWith("H") select n).ToList(); // returns a list of all elements that satisfy the specified condition
+    var query18 = (from n in names where n.StartsWith("H") select n).ToArray(); // returns an array of all elements that satisfy the specified condition
+    var query19 = (from n in names where n.StartsWith("H") select n).Distinct(); // returns a collection of distinct elements that satisfy the specified condition
+
+    // Results
+    Console.WriteLine("Result :" + query15);
+    Console.WriteLine("Result :" + query16);
+    Console.WriteLine("Result :" + String.Join(", ", query17));
+    Console.WriteLine("Result :" + String.Join(", ", query18));
+    Console.WriteLine("Result :" + String.Join(", ", query19));
+
+    var queryList = query19;
+    foreach (var item in queryList)
+    {
+      Console.WriteLine("Query List Item: " + item);
+    }
 
   }
 
