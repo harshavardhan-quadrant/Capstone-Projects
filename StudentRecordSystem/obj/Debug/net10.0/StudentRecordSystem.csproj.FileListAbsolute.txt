@@ -1,0 +1,15 @@
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\bin\Debug\net10.0\StudentRecordSystem.exe
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\bin\Debug\net10.0\StudentRecordSystem.deps.json
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\bin\Debug\net10.0\StudentRecordSystem.runtimeconfig.json
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\bin\Debug\net10.0\StudentRecordSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\bin\Debug\net10.0\StudentRecordSystem.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.AssemblyInfoInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.AssemblyInfo.cs
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.csproj.CoreCompileInputs.cache
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.sourcelink.json
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\refint\StudentRecordSystem.dll
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.pdb
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\StudentRecordSystem.genruntimeconfig.cache
+C:\Users\Quadrant\Desktop\DRI\code space\StudentRecordSystem\obj\Debug\net10.0\ref\StudentRecordSystem.dll
